@@ -22,7 +22,7 @@ Training maps configuration:
 | maze2d-8 | 0.0 | 0.0 |
 | **Average** | **36.9** | **18.2** |
 
-*Table 1: Average return on 8 Maze2D training maps.*
+*Table: Average return on 8 Maze2D training maps, where reward = exp(−‖current position(x,y) − target position‖₂).*
 
 ---
 
